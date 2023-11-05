@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users xmlns="http://www.demandware.com/xml/impex/user/2007-09-05">
+    <user login="vlad.bularca.marian@gmail.com" enabled-flag="true">
+        <credentials>
+            <external-id>a518a7b3-aa64-4843-a4bf-a7e7ed2e1b61</external-id>
+        </credentials>
+        <profile>
+            <first-name>Vlad-Marian</first-name>
+            <last-name>Bularca</last-name>
+            <email>vlad.bularca.marian@gmail.com</email>
+        </profile>
+    </user>
+
+</users>
